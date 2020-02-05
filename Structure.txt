@@ -1,0 +1,6 @@
+@ATTRIBUTE Outlook {Sunny,Overcast,Rain}
+@ATTRIBUTE Tempreture {Hot,Mild,Cool}
+@ATTRIBUTE Humidity {High,Normal}
+@ATTRIBUTE Wind {Weak,Strong}
+@ATTRIBUTE Height NUMERIC
+@ATTRIBUTE class {yes,no}

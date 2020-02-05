@@ -1,0 +1,15 @@
+Outlook,Tempreture,Humidity,Wind,Height,class
+Sunny,Hot,High,Weak,180,no
+Sunny,Hot,High,Strong,184,no
+Overcast,Hot,High,Weak,174,yes
+Rain,Mild,High,Weak,190,
+Rain,Cool,,Weak,160,yes
+Rain,Cool,Normal,Strong,,no
+Overcast,Cool,Normal,Strong,160,yes
+Sunny,Mild,High,Weak,165,no
+Sunny,Cool,Normal,,178,yes
+Rain,Mild,Normal,Weak,175,yes
+Sunny,Mild,Normal,Strong,166,yes
+Overcast,Mild,High,Strong,192,yes
+Overcast,Hot,Normal,Weak,165,yes
+Rain,Mild,High,Strong,150,no
